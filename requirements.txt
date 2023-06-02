@@ -1,0 +1,8 @@
+pdf2image
+pytesseract
+PyPDF2
+openpyxl
+plotly
+kaleido
+jupyter
+notebook
